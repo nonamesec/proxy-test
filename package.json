@@ -1,0 +1,12 @@
+{
+  "name": "proxy",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "got": "^12.6.0",
+    "hpagent": "^1.2.0",
+    "http2-wrapper": "^2.2.0"
+  }
+}
